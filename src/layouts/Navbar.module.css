@@ -1,7 +1,4 @@
-header{
-    display: flex;
-    align-items: center;
-}
+
 
 .navbar{
     display:flex;
@@ -11,5 +8,5 @@ header{
 
 }
 .itens{
-    margin: 2em;
+    margin: 1em;
 }
