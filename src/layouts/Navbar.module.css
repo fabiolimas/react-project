@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    align-items: center;
+}
+
+.navbar{
+    display:flex;
+    list-style-type: none;
+    align-items: flex-end;
+    justify-content: end;
+
+}
+.itens{
+    margin: 2em;
+}
