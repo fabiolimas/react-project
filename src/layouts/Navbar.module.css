@@ -2,11 +2,25 @@
 
 .navbar{
     display:flex;
-    list-style-type: none;
-    align-items: flex-end;
-    justify-content: end;
+    padding: 1em;
+    background-color: #222;
+    justify-content: space-between;
 
 }
-.itens{
+.list{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
     margin: 1em;
+}
+.itens{
+    margin-right: 1em;
+   
+}
+.itens a{
+     color:#fff;
+     text-decoration:none;
+}
+.itens a:hover{
+    color:#ffbb33;
 }
